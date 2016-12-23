@@ -1,3 +1,3 @@
 module Iyzipay
-  VERSION = IO.read("VERSION")
+  VERSION = "999"
 end
